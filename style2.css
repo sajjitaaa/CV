@@ -1,0 +1,99 @@
+body {
+  /* font-family: 'Montserrat', sans-serif;
+ */
+  font-family: "Ubuntu";
+  background-color: #222831;
+  color: #222831;
+  line-height: 1.2rem;
+}
+
+h5 {
+  margin-top: 0;
+  font-size: 1rem;
+}
+
+.h3 {
+  font-weight: bold;
+  color: #686d76;
+}
+
+.container-fluid {
+  padding: 8% 15%;
+}
+
+/* Cards */
+.card {
+  box-shadow: 0 2px 2px 0 #dae1e7, 0 4px 6px 0 #dae1e7;
+  padding: 5%;
+}
+
+.title-img {
+  border-radius: 50%;
+  width: 70%;
+}
+.title-intro{
+     font-size: 1.2rem;
+     margin-top: 5%;
+}
+
+/* Education */
+.education-section {
+  text-align: center;
+}
+
+.title-intro, .degree-name, .college-name, .year {
+  margin-top: 0px;
+}
+
+.year {
+  color: #a6a6a4;
+}
+
+.about-education {
+  text-align: left;
+  font-size: 1.2rem;
+}
+
+/* Extras */
+.extras-headings {
+  text-align: left;
+  margin-bottom: 10%;
+}
+
+.skill-section {
+  margin: 0 10% 0 8%;
+}
+
+.box {
+  background-color: #222831;
+  color: #eee;
+  border-radius: 6px;
+  padding: 3%;
+  font-weight: 500;
+  /* position: relative; */
+  margin-top: 0;
+  margin-right: 3%;
+}
+
+.box:hover {
+  color: #eee;
+}
+
+.language-section {
+  margin: 5%;
+}
+
+/* contact section */
+.icon-footer {
+  padding: 1%;
+  margin: 1px;
+  font-size: 1rem;
+}
+
+.icon-footer-link {
+  color: #686d76;
+}
+
+.icon-footer-link:hover {
+  color: #222831;
+}
